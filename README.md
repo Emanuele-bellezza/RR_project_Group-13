@@ -9,7 +9,7 @@ University of Warsaw · 2025/26
 
 | Name | Role |
 |------|------|
-| [Name 1] | EDA, data loading, preprocessing |
+| Emanuele Bellezza | EDA, data loading, preprocessing |
 | Otajon Yuldashev | LASSO & XGBoost translation, modelling |
 | Jamal Al-Shaweai | Extension (Ridge, Elastic Net), conclusions, live demo |
 
