@@ -94,7 +94,7 @@ house-prices-r-to-python/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_TEAM/house-prices-r-to-python.git
+git clone https://github.com/Emanuele-bellezza/RR_project_Group-13.git
 cd house-prices-r-to-python
 
 # 2. Create and activate the environment
@@ -116,7 +116,7 @@ jupyter notebook
 ### Option B — pip
 
 ```bash
-git clone https://github.com/YOUR_TEAM/house-prices-r-to-python.git
+git clone https://github.com/Emanuele-bellezza/RR_project_Group-13.git
 cd house-prices-r-to-python
 pip install -r requirements.txt
 jupyter notebook
