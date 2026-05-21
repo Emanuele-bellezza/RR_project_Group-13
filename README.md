@@ -11,7 +11,7 @@ University of Warsaw · 2025/26
 |------|------|
 | [Name 1] | EDA, data loading, preprocessing |
 | Otajon Yuldashev | LASSO & XGBoost translation, modelling |
-| [Name 3] | Extension (Ridge, Elastic Net), conclusions, live demo |
+| Jamal Al-Shaweai | Extension (Ridge, Elastic Net), conclusions, live demo |
 
 ---
 
